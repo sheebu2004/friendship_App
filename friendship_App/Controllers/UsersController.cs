@@ -7,5 +7,9 @@ namespace friendship_App.Controllers
     [Route("api/[controller]")]
     public class UsersController
     {
+        public UsersController()
+        {
+            
+        }
     }
 }
